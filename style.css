@@ -1,0 +1,9 @@
+.heading {
+    display: inline-block;
+    color: brown;
+    
+}
+
+* {
+        background-color: lightgreen;
+}
