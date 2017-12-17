@@ -1,11 +1,12 @@
-#namtar{
+#namtar {
     font-family: 'Cinzel Decorative', cursive;
     font-size: 100px;
     color: red;
-    
 }
+
 * {
     background-color: #223E4A;
+    font-family: 'Monda', sans-serif;
 }
 
 .main-heading {
@@ -17,6 +18,11 @@
 
 img {
     margin: 10px 50px 10px 50px;
+}
+
+h4 {
+    float: right;
+    margin-right: 20px;
 }
 
 p {
@@ -86,8 +92,4 @@ h1 {
 
 h2 {
     font-family: 'Oleo Script', cursive;
-}
-
-* {
-    font-family: 'Monda', sans-serif;
 }
