@@ -1,3 +1,7 @@
+* {
+    background-color: #223E4A;
+}
+
 .main-heading {
     display: inline-block;
     text-align: center;
@@ -5,13 +9,57 @@
     font-size: 25px
 }
 
+img {
+    float: left;
+    margin: 10px 30px 10px 50px;
+}
+
+
 p {
     color: lightgreen;
     font-size: 30px
 }
 
-* {
-    background-color: #223E4A;
+#superlightblue {
+    color: #2d96ff;
+    margin-left: 20px;
+}
+
+#para-1 {
+    float: left;
+    padding-left: 70px;
+}
+
+#orangered {
+    color: orangered;
+
+    margin: 120px;
+}
+
+#para-2 {
+    float: left;
+    padding-left: 170px;
+}
+
+#para-3 {
+    float: left;
+    padding-left: 220px;
+}
+
+#para-4 {
+    float: left;
+    padding-left: 270px;
+}
+
+#para-5 {
+        float: left;
+    padding-left: 320px;
+}
+
+#lightgrey {
+    color: #aeb8c4;
+    float: left;
+    padding-left: 370px;
 }
 
 .submit-button:hover {
@@ -23,27 +71,25 @@ p {
     font-size: 22px
 }
 
+#sub {
+    float: left;
+    padding-left: 420px;
+}
+
 h1 {
     font-family: 'Fugaz One', cursive;
 }
-h2{
+
+h2 {
     font-family: 'Oleo Script', cursive;
 }
 
-*{
+* {
     font-family: 'Monda', sans-serif;
 }
 
 
-#orangered {
-    color: orangered;
-}
 
-#superlightblue {
-    color: #2d96ff;
-}
 
-#lightgrey {
-    color: #aeb8c4;
 
-}
+
