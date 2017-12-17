@@ -10,8 +10,7 @@
 }
 
 img {
-    float: left;
-    margin: 10px 30px 10px 50px;
+    margin: 10px 50px 10px 50px;
 }
 
 
@@ -87,9 +86,3 @@ h2 {
 * {
     font-family: 'Monda', sans-serif;
 }
-
-
-
-
-
-
