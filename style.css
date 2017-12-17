@@ -13,7 +13,6 @@ img {
     margin: 10px 50px 10px 50px;
 }
 
-
 p {
     color: lightgreen;
     font-size: 30px
@@ -51,7 +50,7 @@ p {
 }
 
 #para-5 {
-        float: left;
+    float: left;
     padding-left: 320px;
 }
 
