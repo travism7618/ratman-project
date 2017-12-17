@@ -23,3 +23,13 @@ p {
 .submit {
     color: #3cb0fd;
 }
+h1 {
+    font-family: 'Fugaz One', cursive;
+}
+h2{
+    font-family: 'Oleo Script', cursive;
+}
+
+*{
+    font-family: 'Monda', sans-serif;
+}
