@@ -49,27 +49,37 @@ p {
 #para-2 {
     float: left;
     padding-left: 170px;
+    position: relative;
+    bottom: 20px;
 }
 
 #para-3 {
     float: left;
     padding-left: 220px;
+    position: relative;
+    bottom: 30px;
 }
 
 #para-4 {
     float: left;
     padding-left: 270px;
+    position: relative;
+    bottom: 40px;
 }
 
 #para-5 {
     float: left;
     padding-left: 320px;
+    position: relative;
+    bottom: 50px;
 }
 
 #lightgrey {
     color: #aeb8c4;
     float: left;
     padding-left: 370px;
+    position: relative;
+    bottom: 30px;
 }
 
 .submit-button:hover {
