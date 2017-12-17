@@ -23,6 +23,18 @@ p {
     font-size: 22px
 }
 
+h1 {
+    font-family: 'Fugaz One', cursive;
+}
+h2{
+    font-family: 'Oleo Script', cursive;
+}
+
+*{
+    font-family: 'Monda', sans-serif;
+}
+
+
 #orangered {
     color: orangered;
 }
@@ -33,4 +45,5 @@ p {
 
 #lightgrey {
     color: #aeb8c4;
+
 }
