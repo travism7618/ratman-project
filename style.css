@@ -1,9 +1,22 @@
 .heading {
     display: inline-block;
-    color: brown;
-    
+    color: lightgrey;
+    text-align: center;
 }
 
 * {
-        background-color: lightgreen;
+    background-color: #004169;
+}
+
+p {
+  color: lightgreen;
+
+}
+
+.submit-button:hover {
+    background: #3cb0fd;
+}
+
+.submit {
+    color: #3cb0fd;
 }
