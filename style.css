@@ -1,11 +1,14 @@
-.heading {
+.main-heading {
     display: inline-block;
-    color: lightgrey;
     text-align: center;
+    color: lightblue;
 }
 
+p {
+  color:lightgreen;
+}
 * {
-    background-color: #004169;
+background-color: #223E4A;
 }
 
 p {
