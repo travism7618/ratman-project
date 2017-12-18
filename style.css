@@ -1,6 +1,12 @@
-#namtar{
+#bignamtar{
     font-family: 'Cinzel Decorative', cursive;
     font-size: 100px;
+    color: red;
+    
+}
+#namtar{
+    font-family: 'Cinzel Decorative', cursive;
+    font-weight:bold;
     color: red;
     
 }
@@ -80,8 +86,9 @@ p {
     padding-left: 420px;
 }
 
-h1 {
-    font-family: 'Fugaz One', cursive;
+#ratman {
+    font-family: 'Fugaz One';
+    color: lightblue;
 }
 
 h2 {
