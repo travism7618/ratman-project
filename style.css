@@ -2,7 +2,6 @@
     font-family: 'Cinzel Decorative', cursive;
     font-size: 100px;
     color: red;
-    
 }
 #namtar{
     font-family: 'Cinzel Decorative', cursive;
@@ -12,6 +11,7 @@
 }
 * {
     background-color: #223E4A;
+    font-family: 'Monda', sans-serif;
 }
 
 .main-heading {
@@ -23,6 +23,11 @@
 
 img {
     margin: 10px 50px 10px 50px;
+}
+
+h4 {
+    float: right;
+    margin-right: 20px;
 }
 
 p {
@@ -49,27 +54,37 @@ p {
 #para-2 {
     float: left;
     padding-left: 170px;
+    position: relative;
+    bottom: 20px;
 }
 
 #para-3 {
     float: left;
     padding-left: 220px;
+    position: relative;
+    bottom: 30px;
 }
 
 #para-4 {
     float: left;
     padding-left: 270px;
+    position: relative;
+    bottom: 40px;
 }
 
 #para-5 {
     float: left;
     padding-left: 320px;
+    position: relative;
+    bottom: 50px;
 }
 
 #lightgrey {
     color: #aeb8c4;
     float: left;
     padding-left: 370px;
+    position: relative;
+    bottom: 30px;
 }
 
 .submit-button:hover {
@@ -93,8 +108,4 @@ p {
 
 h2 {
     font-family: 'Oleo Script', cursive;
-}
-
-* {
-    font-family: 'Monda', sans-serif;
 }
