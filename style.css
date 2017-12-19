@@ -26,8 +26,7 @@ img {
 }
 
 h4 {
-    float: left;
-    margin-right: 200px;
+    padding-left: 25px;
 }
 
 p {
@@ -111,4 +110,17 @@ h2 {
 }
 .email{
     background-color: white;
+}
+
+a {
+    color: yellow; 
+    font-size: 50px;
+    float: left;
+    margin: 10px 50px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: darkblue;
+    text-decoration: underline;
 }
