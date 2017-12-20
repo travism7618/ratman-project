@@ -1,14 +1,16 @@
-#bignamtar{
+#bignamtar {
     font-family: 'Cinzel Decorative', cursive;
     font-size: 100px;
     color: red;
 }
-#namtar{
+
+#namtar {
     font-family: 'Cinzel Decorative', cursive;
-    font-weight:bold;
+    font-weight: bold;
     color: red;
-    
+
 }
+
 * {
     background-color: #223E4A;
     font-family: 'Monda', sans-serif;
@@ -108,12 +110,13 @@ p {
 h2 {
     font-family: 'Oleo Script', cursive;
 }
-.email{
+
+.email {
     background-color: white;
 }
 
 a {
-    color: yellow; 
+    color: yellow;
     font-size: 50px;
     float: left;
     margin: 10px 50px;
