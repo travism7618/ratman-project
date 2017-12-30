@@ -2,6 +2,7 @@
     font-family: 'Cinzel Decorative', cursive;
     font-size: 100px;
     color: red;
+    margin: auto
 }
 #namtar{
     font-family: 'Cinzel Decorative', cursive;
@@ -22,12 +23,15 @@
 }
 
 img {
-    margin: 10px 50px 10px 50px;
+    /*margin: 10px 50px 10px 50px;*/
+    display: block;
+    margin: auto;
 }
 
 h4 {
-    float: left;
-    margin-right: 200px;
+    float: right;
+    margin-right: 20px;
+    display: block;
 }
 
 p {
