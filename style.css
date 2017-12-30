@@ -136,3 +136,8 @@ a:hover {
     color: darkblue;
     text-decoration: underline;
 }
+
+audio {
+    float: left;
+    padding-left: 420px;
+}
