@@ -1,15 +1,17 @@
-#bignamtar{
+#bignamtar {
     font-family: 'Cinzel Decorative', cursive;
     font-size: 100px;
     color: red;
     margin: auto
 }
-#namtar{
+
+#namtar {
     font-family: 'Cinzel Decorative', cursive;
-    font-weight:bold;
+    font-weight: bold;
     color: red;
-    
+
 }
+
 * {
     background-color: #223E4A;
     font-family: 'Monda', sans-serif;
@@ -29,9 +31,13 @@ img {
 }
 
 h4 {
+<<<<<<< HEAD
     float: right;
     margin-right: 20px;
     display: block;
+=======
+    padding-left: 25px;
+>>>>>>> 3a3be5285a6ce7a804a829beb09011d482662d21
 }
 
 p {
@@ -113,6 +119,20 @@ p {
 h2 {
     font-family: 'Oleo Script', cursive;
 }
-.email{
+
+.email {
     background-color: white;
+}
+
+a {
+    color: yellow;
+    font-size: 50px;
+    float: left;
+    margin: 10px 50px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: darkblue;
+    text-decoration: underline;
 }
